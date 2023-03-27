@@ -1,0 +1,65 @@
+genus	strain	alternative name	clade	BioMicro Project ID	BioMicro Sample ID	batch	barcode
+Prochlorococcus	MED1	clone of MED4	HLI	210511Chi	D21-4445	batch1	bc1012
+Prochlorococcus	MIT1205	7BBF	LLIV	210511Chi	D21-4446	batch1	bc1016
+Prochlorococcus	MIT1304	150NLLB sort #4	LLII/III	210511Chi	D21-4447	batch1	bc1017
+Prochlorococcus	MIT1323ax	3F8	LLIV	210511Chi	D21-4448	batch1	bc1018
+Prochlorococcus	MIT1327ax	4C5	LLIV	210511Chi	D21-4449	batch1	bc1019
+Synechococcus	MIT S9214	A14		210511Chi	D21-4450	batch1	bc1020
+Synechococcus	MIT S9451	HL5D1		210511Chi	D21-4451	batch1	bc1021
+Synechococcus	MIT S9507	SYN9507		210511Chi	D21-4452	batch1	bc1022
+Synechococcus	MITS9220			210908Chi	D21-8734	batch2	bc1015
+Prochlorococcus	MIT9311		HLII	210908Chi	D21-8735	batch2	bc1016
+Prochlorococcus	PAC1		LLI	210908Chi	D21-8736	batch2	bc1017
+Prochlorococcus	MIT0601		LLII, LLIII	210908Chi	D21-8737	batch2	bc1018
+Prochlorococcus	MIT0602		LLII, LLIII	210908Chi	D21-8738	batch2	bc1019
+Prochlorococcus	SS35	(clonal)	LLII, LLIII	210908Chi	D21-8739	batch2	bc1020
+Synechococcus	WH6501	48-Syn		210908Chi	D21-8740	batch2	bc1021
+Synechococcus	MIT S9501	SYN9501		210908Chi	D21-8741	batch2	bc1022
+Prochlorococcus	MIT9322		HLII	211012Chi	D21-9172	batch3	bc1001
+Prochlorococcus	MIT9401		HLII	211012Chi	D21-9173	batch3	bc1002
+Prochlorococcus	MIT1306ax	7E6	LLIV	211012Chi	D21-9174	batch3	bc1003
+Prochlorococcus	MIT1318ax	4E3	LLIV	211012Chi	D21-9175	batch3	bc1008
+Prochlorococcus	MIT1342ax	14G2	LLIV	211012Chi	D21-9176	batch3	bc1009
+Synechococcus	MIT S9452	LL5D2		211012Chi	D21-9177	batch3	bc1010
+Synechococcus	MIT S9503	SYN9503		211012Chi	D21-9178	batch3	bc1011
+Synechococcus	MIT S9510	SYN9510		211012Chi	D21-9179	batch3	bc1012
+Prochlorococcus	MIT9107		HLII	211022Chi	D21-9526	batch4	bc1015
+Prochlorococcus	MIT9116		HLII	211022Chi	D21-9527	batch4	bc1016
+Prochlorococcus	MIT9302		HLII	211022Chi	D21-9528	batch4	bc1017
+Prochlorococcus	MIT9314		HLII	211022Chi	D21-9529	batch4	bc1018
+Prochlorococcus	MIT0701	HTCC1600, SA-C3	LLIV	211022Chi	D21-9530	batch4	bc1019
+Prochlorococcus	MIT0703	HTCC1602, SA-E6	LLIV	211022Chi	D21-9531	batch4	bc1020
+Prochlorococcus	MIT1201	3AHL	LLIV	211022Chi	D21-9532	batch4	bc1021
+Prochlorococcus	MIT1227	4BC	LLIV	211022Chi	D21-9533	batch4	bc1022
+Prochlorococcus	MIT0603		LLII, LLIII	211029Chi	D21-9760	batch5	bc1001
+Prochlorococcus	MIT1312ax	3E4	LLIV	211029Chi	D21-9761	batch5	bc1002
+Prochlorococcus	MIT1313	13E5	LLIV	211029Chi	D21-9762	batch5	bc1003
+Synechococcus	MIT S9504	SYN9504		211029Chi	D21-9763	batch5	bc1008
+Synechococcus	MIT S9508	SYN9508		211029Chi	D21-9764	batch5	bc1009
+Synechococcus	MIT S9509	SYN9509		211029Chi	D21-9765	batch5	bc1010
+Synechococcus	Cu2B8	CuB2		211029Chi	D21-9766	batch5	bc1011
+Synechococcus	MITS1220	Syn4BA?	Syn 5.1	211029Chi	D21-9767	batch5	bc1012
+Synechococcus	7803ax + mystery phage			220608Chi	D22-6016	batch6	bc1010
+Synechococcus	7803 xenic			220608Chi	D22-6017	batch6	bc1011
+Prochlorococcus	0707			220608Chi	D22-6018	batch6	bc1012
+Prochlorococcus	9303ax		LL	220608Chi	D22-6019	batch6	bc1015
+Prochlorococcus	SS52	(clonal)	LLII, LLIII	220608Chi	D22-6020	batch6	bc1016
+Synechococcus	RS9916ax			220608Chi	D22-6021	batch6	bc1017
+Prochlorococcus	LG	"Little Green"	HLII	220608Chi	D22-6022	batch6	bc1018
+Synechococcus	WH8017			220608Chi	D22-6023	batch6	bc1019
+Prochlorococcus	GP2		HLII	220718Chi	D22-7130	batch7	bc1015
+Prochlorococcus	MIT0702	HTCC1601, SA-E2	LLIV	220718Chi	D22-7131	batch7	bc1016
+Prochlorococcus	SS51	(clonal)	LLII, LLIII	220718Chi	D22-7132	batch7	bc1017
+Prochlorococcus	MIT0718		LLIV	220718Chi	D22-7133	batch7	bc1018
+Prochlorococcus	MIT9107		HLII	220718Chi	D22-7134	batch7	bc1019
+Synechococcus	WH8017			220718Chi	D22-7135	batch7	bc1020
+Synechococcus	S9506	SYN9506		220718Chi	D22-7136	batch7	bc1021
+Henriciella	MIT2000			220718Chi	D22-7137	batch7	bc1022
+Prochlorococcus	SS2			220826Chi	D22-8672	batch8	bc1001
+Prochlorococcus	MIT0714			220826Chi	D22-8673	batch8	bc1002
+Synechococcus	S9214			220826Chi	D22-8674	batch8	bc1003
+Marinobacter	MIT1358			220826Chi	D22-8675	batch8	bc1008
+Prochlorococcus	MED4ax			220826Chi	D22-8676	batch8	bc1009
+Prochlorococcus	MED4X			220826Chi	D22-8677	batch8	bc1010
+Rhizobium	MIT0238			220826Chi	D22-8678	batch8	bc1011
+Thalassospira	MIT1351			220826Chi	D22-8679	batch8	bc1012

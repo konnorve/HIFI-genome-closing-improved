@@ -1,0 +1,11 @@
+batch	sequencing round	xml path
+batch0	1	
+batch1	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/210511Chi/m54030R1_210528_175343.subreadset.xml
+batch2	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/210908Chi/m54030R1_210923_175726.subreadset.xml
+batch3	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/211012Chi/m54030R1_211109_170303.subreadset.xml
+batch4	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/211022Chi/m54030R1_211115_203033.subreadset.xml
+batch5	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/211029Chi/m54030R1_211124_203007.subreadset.xml
+batch6	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/220608Chi/raw/1_A01/m54030R1_220617_175819.subreadset.xml
+batch7	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/220718Chi/raw/1_A01/m54030R1_220728_180547.subreadset.xml
+batch8	1	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/220826Chi/raw1/1_A01/m54030R1_220913_203955.subreadset.xml
+batch8	2	/nfs/chisholmlab001/chisholmlab/experiment_repository/2021/HIFI_Genome_Closing_Project/220826Chi/raw2/1_A01/m54030R1_220923_142224.subreadset.xml
